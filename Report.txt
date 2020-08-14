@@ -1,0 +1,24 @@
+ ------------------------------------   
+ IOT Scanner Final Report  
+ ------------------------------------ 
+
+ Scanner has been ran on: Thu Aug 13 19:15:28 2020
+The logged in user is: elisachim
+
+
+-----------------
+  External Scan 
+-----------------
+
+We have started the process of scanning your 
+external network for open ports and services
+login vulnerabilities.
+
+This scan is using Shodan's online database
+for any information available about your network.
+
+You can find below all the details regarding the
+scan along with the results, which will also be 
+saved in the Report.txt file.
+
+
